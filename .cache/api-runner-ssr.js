@@ -5,11 +5,11 @@ var plugins = [{
     },{
       name: 'gatsby-plugin-canonical-urls',
       plugin: require('/Users/iris/Imflos.github.io/node_modules/gatsby-plugin-canonical-urls/gatsby-ssr'),
-      options: {"plugins":[],"siteUrl":"https://sprlau.github.io"},
+      options: {"plugins":[],"siteUrl":"https://Imflos.github.io"},
     },{
       name: 'gatsby-plugin-manifest',
       plugin: require('/Users/iris/Imflos.github.io/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Ramon Morcillo","short_name":"sprlau.github.io","start_url":"/","background_color":"#255799","theme_color":"#255799","display":"standalone","icon":"static/images/favicon/cello.png","crossOrigin":"use-credentials","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","include_favicon":true,"cacheDigest":"11554d03562f02620af9f4e54e7f1d71"},
+      options: {"plugins":[],"name":"Ramon Morcillo","short_name":"Imflos.github.io","start_url":"/","background_color":"#255799","theme_color":"#255799","display":"standalone","icon":"static/images/favicon/cello.png","crossOrigin":"use-credentials","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","include_favicon":true,"cacheDigest":"11554d03562f02620af9f4e54e7f1d71"},
     },{
       name: 'gatsby-plugin-google-analytics',
       plugin: require('/Users/iris/Imflos.github.io/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
